@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 👯 I’m looking to collaborate on **Blockvote**
+- 👯 I’m looking to collaborate on **Open-Source-Projects**
 
 - 💬 Ask me about **Python, Java, Solidity**
 
