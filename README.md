@@ -30,7 +30,7 @@
 </p>
 
 <!-- Add this section to display the snake animation -->
-![snake gif](https://github.com/SujalBagade/SujalBagade/raw/output/snake.svg)
+<img src="https://raw.githubusercontent.com/SujalBagade/SujalBagade/output/snake.svg" alt="Snake animation" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
