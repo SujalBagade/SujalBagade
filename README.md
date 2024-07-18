@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sujal Bagade</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-- 🔭 I’m currently working on **Scalp-Sense**
+- 🔭 I’m currently working on **Python Projects**
 - 🌱 I’m currently learning **Golang**
 - 👯 I’m looking to collaborate on **Open-Source Projects**
 - 💬 Ask me about **Python, Java, Solidity**
