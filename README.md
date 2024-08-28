@@ -29,8 +29,7 @@
   </a>
 </p>
 
-<!-- Add this section to display the snake animation -->
-<img src="https://raw.githubusercontent.com/SujalBagade/SujalBagade/output/snake.svg" alt="Snake animation" />
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
