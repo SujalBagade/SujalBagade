@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Golang**
 - 👯 I’m looking to collaborate on **Open-Source Projects**
 - 💬 Ask me about **Python, Java, Solidity**
-- 📫 How to reach me **sujalbagade123@gmail.com**
+- 📫 Reach me at **sujalbagade123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
